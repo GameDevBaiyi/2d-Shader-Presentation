@@ -1,5 +1,6 @@
 # 2d-Shader-Presentation
-常见的 2D Shader 效果展示
+基本的 2D Shader 效果展示. 
+由于动图比较大, 所以只展示基本功, 复杂绚丽的效果 依然 Vertex Shader 和 Fragment Shader 构成的.  
 
 ![Outline](https://github.com/GameDevBaiyi/2d-Shader-Presentation/assets/100526832/923262e8-9751-4efd-b57a-64978d0a92cb)
 
